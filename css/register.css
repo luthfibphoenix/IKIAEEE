@@ -1,0 +1,44 @@
+/* Profile Section Styles */
+.profile-section {
+    padding: 7rem 0;
+    background-color: #eff2f1; /* Mengganti #lighter dengan nilai yang benar */
+}
+
+.section-title {
+    color: #2f2f2f; /* Mengganti #dark dengan nilai yang benar */
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.col-lg-6 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.profile-details {
+    background-color: #ffffff; /* Mengganti #white dengan nilai yang benar */
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Mengganti #black dengan nilai yang benar */
+    padding: 20px;
+}
+
+.profile-details p {
+    margin: 10px 0;
+}
+
+.profile-details strong {
+    font-weight: bold;
+}
